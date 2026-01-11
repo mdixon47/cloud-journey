@@ -16,6 +16,6 @@ options for my family.
 Each project includes: problem → approach → commands/code → screenshots →
 lessons learned → what I'd do differently.
 **Contact/Connect**
-- LinkedIn: [<YOUR LINK>](https://www.linkedin.com/in/malik-dixon/)
+- LinkedIn: [<https://www.linkedin.com/in/malik-dixon/>]
 - Notes: If you’re hiring for junior cloud/security roles, I’m documenting proof every
 week.
